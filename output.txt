@@ -1,0 +1,32 @@
+PS F:\py\NemishaAssignment\apiTestAssignment> python .\apiTest.py
+Options:
+1. Get Temperature
+2. Get Wind Speed
+3. Get Pressure
+0. Exit
+Enter your choice: 1
+Enter the date with time (yyyy-mm-dd hh:mm:ss): 2019-03-27 18:00:00
+Temperature at 2019-03-27 18:00:00: 278.76 K
+Options:
+1. Get Temperature
+2. Get Wind Speed
+3. Get Pressure
+0. Exit
+Enter your choice: 2                  
+Enter the date with time (yyyy-mm-dd hh:mm:ss): 2019-03-27 18:00:00
+Wind Speed at 2019-03-27 18:00:00: 1.6 m/s
+Options:
+1. Get Temperature
+2. Get Wind Speed
+3. Get Pressure
+0. Exit
+Enter your choice: 3
+Enter the date with time (yyyy-mm-dd hh:mm:ss): 2019-03-27 18:00:00
+Pressure at 2019-03-27 18:00:00: 1031.934 hPa
+Options:
+1. Get Temperature
+2. Get Wind Speed
+3. Get Pressure
+0. Exit
+Enter your choice: 0
+PS F:\py\NemishaAssignment\apiTestAssignment> 
